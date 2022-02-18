@@ -1,6 +1,6 @@
 # World-Energy-Consumption-POC
 
-A high-level summary of your POC in the readme.md file.
+This project is based on the World-Energy-Consumption dataset available on Kaggle: https://www.kaggle.com/pralabhpoudel/world-energy-consumption
 
 
 ![image](https://user-images.githubusercontent.com/99834112/154721004-a49df881-8760-451c-bcc6-615121cb569d.png)

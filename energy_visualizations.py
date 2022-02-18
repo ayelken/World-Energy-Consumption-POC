@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 
 #Create a conneciton to our database and query it for a new dataframe to download to csv for use in visualizations
-conn = psycopg2.connect("host=localhost dbname = POC user=postgres password = Packer13!")
+conn = psycopg2.connect("host=localhost dbname = POC user=postgres password = ****")
 
 cur = conn.cursor()
 

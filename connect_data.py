@@ -4,7 +4,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 import io
 
-conn = psycopg2.connect("host=localhost dbname = POC user=postgres password = Packer13!")
+conn = psycopg2.connect("host=localhost dbname = POC user=postgres password = ****")
 
 conn.autocommit = True
 cur = conn.cursor()
@@ -48,7 +48,7 @@ cur = conn.cursor()
 df_countries = data_cleanse.iso_code_u
 df = data_cleanse.df_2
 
-engine = create_engine("postgresql+psycopg2://postgres:Packer13!@localhost:5432/POC")
+engine = create_engine("postgresql+psycopg2://postgres:****@localhost:5432/POC")
 
 df_countries.to_sql('country_iso', engine, if_exists='replace')
 

@@ -13,7 +13,6 @@ Once we parsed down the dataset we included the iso_code(which is a three letter
 Just so we’re all on the same page, you can see the description of the columns we included for each fossil fuel and renewable resource.
 Electricity is the electricity generated from each resource and is measured in terawatt-hours 
 Consumption is the primary energy consumption of each resource and is also measured in terawatt-hours
-![image](https://user-images.githubusercontent.com/99840005/154741858-73b037b6-4118-4d0b-93a8-bc04da275bf3.png)
 
 Data Profiling and Quality Assessment
 ![image](https://user-images.githubusercontent.com/99834112/154721004-a49df881-8760-451c-bcc6-615121cb569d.png)
